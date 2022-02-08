@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Serj!
 - 👀 I’m interested in developing all kinds of software
-- 🌱 I’m currently learning app and web development.
+- 🌱 I’m currently learning web development.
 - 📫 How to reach me https://www.linkedin.com/in/serj-sililian-198148199/
 
 <!---
