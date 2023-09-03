@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Serj!
-- 👀 I’m interested in developing all kinds of software.
-- 🌱 I’m currently learning web development technoligies like React.js.
+- 🌱 I’m currently a software engineer at Block 
 - 📫 How to reach me https://www.linkedin.com/in/serj-sililian-198148199/
 
 <!---
